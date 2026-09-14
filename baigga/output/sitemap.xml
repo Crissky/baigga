@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>/</loc>
+  <lastmod>2026-09-13T07:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/archive.html</loc>
+  <lastmod>2026-09-13T07:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/categorias.html</loc>
+  <lastmod>2026-09-13T07:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/categories/</loc>
+  <lastmod>2025-09-17T23:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/galleries/</loc>
+  <lastmod>2026-09-13T07:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/listings/</loc>
+  <lastmod>2026-09-13T07:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/pages/sobre/</loc>
+  <lastmod>2026-09-13T07:25:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="pt_br" href="pages/sobre/" />
+ </url>
+ <url>
+  <loc>/tags.html</loc>
+  <lastmod>2026-09-13T07:25:00Z</lastmod>
+ </url>
+</urlset>
