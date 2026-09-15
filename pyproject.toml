@@ -8,7 +8,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10.1 <3.11.0"
-nikola = ">=8.3.3"
+nikola = { version = ">=8.3.3", extras = ["extras"] }
 
 [build-system]
 requires = ["poetry-core"]
