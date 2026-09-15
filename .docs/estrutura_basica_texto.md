@@ -31,6 +31,12 @@
 
  É a porta de entrada da análise. Apresente o jogo, sua proposta e, principalmente, **qual é a impressão geral que a análise pretende investigar**.
 
+**Itens que valem a pena serem abordados na introdução:**
+- Apresentar o jogo e o desenvolvedor.
+- Explicar brevemente a premissa.
+- Introduzir as principais atividades do jogador.
+- Estabelecer a pergunta que conduzirá a análise.
+
  **Exemplo:**
 
  > _Jogo X_ é um RPG de ação desenvolvido pelo Estúdio Y. Sua principal aposta está na combinação entre exploração de mundo aberto e combates extremamente rápidos. A questão é: será que essas duas propostas conseguem coexistir sem que uma prejudique a outra?
