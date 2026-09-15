@@ -5,23 +5,23 @@
  | # | Tópico | Obrigatoriedade | Tamanho sugerido |
 | --- | --- | --- | --- |
 | 1 | Introdução | **Obrigatório** | 80–150 palavras |
-| 2 | Contexto e ficha técnica | **Obrigatório** | 50–120 palavras |
-| 3 | Premissa e proposta | **Obrigatório** | 100–200 palavras |
+| 2 | Ficha Técnica | **Obrigatório** | 50–120 palavras |
+| 3 | Premissa e Proposta | **Obrigatório** | 100–200 palavras |
 | 4 | Gameplay | **Obrigatório** | 300–600 palavras |
-| 5 | Progressão e estrutura | **Obrigatório** | 150–300 palavras |
-| 6 | História e narrativa | **Obrigatório** | 200–500 palavras |
+| 5 | Progressão e Estrutura | **Obrigatório** | 150–300 palavras |
+| 6 | História e Narrativa | **Obrigatório** | 200–500 palavras |
 | 7 | Personagens | Recomendado | 100–300 palavras |
-| 8 | Mundo e ambientação | Recomendado | 150–350 palavras |
-| 9 | Direção de arte e gráficos | **Obrigatório** | 100–250 palavras |
-| 10 | Trilha sonora e áudio | Recomendado | 100–250 palavras |
-| 11 | Desempenho e aspectos técnicos | **Obrigatório** | 100–250 palavras |
-| 12 | Conteúdo e longevidade | Recomendado | 100–250 palavras |
-| 13 | Pontos positivos e negativos | **Obrigatório** | 100–200 palavras |
+| 8 | Mundo e Ambientação | Recomendado | 150–350 palavras |
+| 9 | Direção de Arte e Gráficos | **Obrigatório** | 100–250 palavras |
+| 10 | Trilha Sonora e Áudio | Recomendado | 100–250 palavras |
+| 11 | Desempenho e Aspectos técnicos | **Obrigatório** | 100–250 palavras |
+| 12 | Conteúdo e Longevidade | Recomendado | 100–250 palavras |
+| 13 | Pontos Positivos e Negativos | **Obrigatório** | 100–200 palavras |
 | 14 | Veredito | **Obrigatório** | 100–200 palavras |
-| 15 | Público recomendado | Opcional | 50–120 palavras |
+| 15 | Público Recomendado | Opcional | 50–120 palavras |
 | 16 | Comparações | Opcional | 100–300 palavras |
-| 17 | Considerações sobre preço | Opcional | 50–150 palavras |
-| 18 | Análise pós-jogo / aspectos avançados | Opcional | 200–600 palavras |
+| 17 | Considerações Sobre Preço | Opcional | 50–150 palavras |
+| 18 | Análise Pós-Jogo / Aspectos Avançados | Opcional | 200–600 palavras |
 
 ---
 
@@ -45,7 +45,7 @@
 
 ---
 
- ## 2\. Contexto e ficha técnica
+ ## 2\. Ficha Técnica
 
  **Obrigatório — 50–120 palavras**
 
@@ -71,7 +71,7 @@
 
 ---
 
- ## 3\. Premissa e proposta
+ ## 3\. Premissa e Proposta
 
  **Obrigatório — 100–200 palavras**
 
@@ -128,7 +128,7 @@
 
 ---
 
- ## 5\. Progressão e estrutura
+ ## 5\. Progressão e Estrutura
 
  **Obrigatório — 150–300 palavras**
 
@@ -152,7 +152,7 @@
 
 ---
 
- ## 6\. História e narrativa
+ ## 6\. História e Narrativa
 
  **Obrigatório — 200–500 palavras**
 
@@ -204,7 +204,7 @@
 
 ---
 
- ## 8\. Mundo e ambientação
+ ## 8\. Mundo e Ambientação
 
  **Recomendado — 150–350 palavras**
 
@@ -224,7 +224,7 @@
 
 ---
 
- ## 9\. Direção de arte e gráficos
+ ## 9\. Direção de Arte e Gráficos
 
  **Obrigatório — 100–250 palavras**
 
@@ -245,7 +245,7 @@
 
 ---
 
- ## 10\. Trilha sonora e áudio
+ ## 10\. Trilha Sonora e Áudio
 
  **Recomendado — 100–250 palavras**
 
@@ -265,7 +265,7 @@
 
 ---
 
- ## 11\. Desempenho e aspectos técnicos
+ ## 11\. Desempenho e Aspectos Técnicos
 
  **Obrigatório — 100–250 palavras**
 
@@ -292,7 +292,7 @@
 
 ---
 
- ## 12\. Conteúdo e longevidade
+ ## 12\. Conteúdo e Longevidade
 
  **Recomendado — 100–250 palavras**
 
@@ -316,20 +316,20 @@
 
 ---
 
- ## 13\. Pontos positivos e negativos
+ ## 13\. Pontos Positivos e Negativos
 
  **Obrigatório — 100–200 palavras**
 
  Uma seção visualmente simples ajuda o leitor a absorver rapidamente sua conclusão.
 
- ### Pontos positivos
+ ### Pontos Positivos
 
  - Excelente sistema de combate.
 - Direção de arte marcante.
 - Boa variedade de inimigos.
 - Trilha sonora memorável.
 
- ### Pontos negativos
+ ### Pontos Negativos
 
  - Progressão pouco criativa.
 - Missões secundárias repetitivas.
@@ -357,7 +357,7 @@
 
 ---
 
- ## 15\. Público recomendado
+ ## 15\. Público Recomendado
 
  **Opcional — 50–120 palavras**
 
@@ -385,7 +385,7 @@
 
 ---
 
- ## 17. Considerações sobre preço
+ ## 17. Considerações Sobre Preço
 
  **Opcional — 50–150 palavras**
 
@@ -402,7 +402,7 @@
 
 ---
 
- ## 18\. Análise pós-jogo / aspectos avançados
+ ## 18\. Análise Pós-Jogo / Aspectos Avançados
 
  **Opcional — 200–600 palavras**
 
@@ -424,7 +424,7 @@
 
 ---
 
- # Estrutura final recomendada
+ # Estrutura Final Recomendada
 
  Uma análise completa poderia seguir esta sequência:
 
