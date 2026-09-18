@@ -1,16 +1,3 @@
-<div style="text-align: center;">
-    <br>
-    <iframe
-        width="560"
-        height="315"
-        src="https://www.youtube.com/embed/ID_DO_VIDEO"
-        title="YouTube video player"
-        style="border: 0;"
-        allowfullscreen>
-    </iframe>
-    <br><br>
-</div>
-
 <div class="youtube-video">
   <iframe
     src="https://www.youtube.com/embed/ID_DO_VIDEO"
