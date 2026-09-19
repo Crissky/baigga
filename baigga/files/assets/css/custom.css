@@ -58,3 +58,14 @@
     }
 }
 /* DIV IMAGENS: DUAS POR LINHA */
+
+/* CAROUSEL DE IMAGENS */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 36px;
+    height: 36px;
+    background-color: rgba(0, 0, 0, 0.55);
+    background-size: 45% 45%;
+    border-radius: 50%;
+}
+/* CAROUSEL DE IMAGENS */
