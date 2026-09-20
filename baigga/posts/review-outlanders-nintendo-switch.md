@@ -88,15 +88,6 @@ Essa abordagem também se reflete na maneira como o jogo apresenta seus desafios
 É uma premissa relativamente modesta, mas que estabelece uma identidade clara para o jogo: mais do que construir pelo simples ato de construir, o conceito é observar pequenas comunidades crescerem e encontrar soluções para as demandas que surgem com o aumento da população.
 
 
-<div class="embed-responsive embed-responsive-16by9 youtube-video">
-    <iframe
-        class="embed-responsive-item"
-        src="https://www.youtube.com/embed/GufhbM_rs3I"
-        allowfullscreen>
-    </iframe>
-</div>
-
-
 ## Gameplay
 
 *Outlanders* é dividido em dois modos de jogo: **Campanha** e **Mundo Aberto**.
