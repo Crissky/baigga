@@ -1,3 +1,5 @@
+[Documentação](https://getbootstrap.com/docs/4.4/components/carousel/)
+
 <div id="reviewCarousel" class="carousel slide" data-ride="carousel">
     <!-- BOTÕES DA PARTE INFERIOR -->
     <div class="carousel-indicators">
