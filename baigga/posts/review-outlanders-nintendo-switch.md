@@ -17,46 +17,63 @@
 
 ## Ficha Técnica
 
-<div class="my-4 p-4 bg-light border-start border-primary border-4 rounded-end shadow-sm"
-     style="max-width: 800px; border-left: 5px solid #0d6efd !important;">
-    <h4 class="mb-4 text-primary d-flex align-items-center">
-        <span class="me-2">🎮</span> <strong>Outlanders</strong>
+<div class="my-4 p-4 bg-light rounded-right shadow-sm"
+     style="border-left: 5px solid #6C757D !important;">
+    <h4 class="mb-4 text-muted d-flex align-items-center">
+        <span class="mr-1">🎮</span>
+        <strong>Outlanders</strong>
     </h4>
-    <div class="row g-3">
-        <!-- LINHA 1 -->
-        <div class="col-12 col-md-6">
-            <small class="text-muted d-block text-nowrap">🏢 Desenvolvedora</small>
-            <strong>Pomelo Games</strong>
+    <div class="row">
+        <!-- VÍDEO - LADO ESQUERDO -->
+        <div class="col-12 col-lg-5 mb-4 mb-lg-0">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe
+                    class="embed-responsive-item"
+                    src="https://www.youtube.com/embed/GufhbM_rs3I"
+                    allowfullscreen>
+                </iframe>
+            </div>
         </div>
-        <div class="col-12 col-md-6">
-            <small class="text-muted d-block text-nowrap">📣 Publicadora</small>
-            <strong>Pomelo Games</strong>
-        </div>
-        <div class="col-12 col-md-6">
-            <small class="text-muted d-block text-nowrap">🎲 Gênero</small>
-            <strong>Simulador</strong>
-        </div>
-        <!-- LINHA 2 -->
-        <div class="col-12 col-md-6">
-            <small class="text-muted d-block text-nowrap">🕹️ Plataforma</small>
-            <strong>Nintendo Switch</strong>
-        </div>
-        <div class="col-12 col-md-6">
-            <small class="text-muted d-block text-nowrap">📅 Lançamento</small>
-            <strong>06/11/2025</strong>
-        </div>
-        <div class="col-12 col-md-6">
-            <small class="text-muted d-block text-nowrap">👥 Jogadores</small>
-            <strong>1 jogador</strong>
-        </div>
-        <!-- LINHA 3 -->
-        <div class="col-12 col-md-6">
-            <small class="text-muted d-block text-nowrap">🌐 Idioma</small>
-            <strong>Português</strong>
-        </div>
-        <div class="col-12 col-md-6">
-            <small class="text-muted d-block text-nowrap">💰 Preço</small>
-            <span class="text-success fw-bold" style="font-size: 1.1rem;">R$ 32,99</span>
+        <!-- INFORMAÇÕES - LADO DIREITO -->
+        <div class="col-12 col-lg-7">
+            <div class="row">
+                <!-- LINHA 1 -->
+                <div class="col-12 col-md-6">
+                    <small class="text-muted d-block text-nowrap">🏢 Desenvolvedora</small>
+                    <strong>Pomelo Games</strong>
+                </div>
+                <div class="col-12 col-md-6">
+                    <small class="text-muted d-block text-nowrap">📣 Publicadora</small>
+                    <strong>Pomelo Games</strong>
+                </div>
+                <!-- LINHA 2 -->
+                <div class="col-12 col-md-6">
+                    <small class="text-muted d-block text-nowrap">🎲 Gênero</small>
+                    <strong>Simulador</strong>
+                </div>
+                <div class="col-12 col-md-6">
+                    <small class="text-muted d-block text-nowrap">🕹️ Plataforma</small>
+                    <strong>Nintendo Switch</strong>
+                </div>
+                <!-- LINHA 3 -->
+                <div class="col-12 col-md-6">
+                    <small class="text-muted d-block text-nowrap">📅 Lançamento</small>
+                    <strong>06/11/2025</strong>
+                </div>
+                <div class="col-12 col-md-6">
+                    <small class="text-muted d-block text-nowrap">👥 Jogadores</small>
+                    <strong>1 jogador</strong>
+                </div>
+                <!-- LINHA 4 -->
+                <div class="col-12 col-md-6">
+                    <small class="text-muted d-block text-nowrap">🌐 Idioma</small>
+                    <strong>Português</strong>
+                </div>
+                <div class="col-12 col-md-6">
+                    <small class="text-muted d-block text-nowrap">💰 Preço</small>
+                    <span class="text-success font-weight-bold">R$ 32,99</span>
+                </div>
+            </div>
         </div>
     </div>
 </div>
