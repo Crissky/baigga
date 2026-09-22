@@ -74,14 +74,12 @@ Seguidores, construções, recursos e decretos precisam ser utilizados em conjun
 
 A **Campanha** de *Outlanders* é dividida em 29 níveis, agrupados em 5 temporadas. Os níveis da primeira temporada introduzem o jogador às mecânicas centrais do jogo: coleta de recursos, construção de edificações, necessidades dos seguidores e uso dos decretos. A curva de aprendizado é bastante suave e não sobrecarrega o jogador com inúmeras informações, apresentando as novidades de maneira gradativa. No início de cada temporada, novas construções e recursos são introduzidos, enquanto os níveis finais colocam à prova todo o conhecimento adquirido ao longo da campanha.
 
-<div class="review-images">
-    <a href="/images/reviews/nintendo_switch/outlanders/image2.jpg">
-        <img src="/images/reviews/nintendo_switch/outlanders/image2.jpg" alt="Imagem 2">
-    </a>
-    <a href="/images/reviews/nintendo_switch/outlanders/image3.jpg">
-        <img src="/images/reviews/nintendo_switch/outlanders/image3.jpg" alt="Imagem 3">
-    </a>
-</div>
+{{% review-images
+image_1="/images/reviews/nintendo_switch/outlanders/image2.jpg"
+alt_image_1="Imagem 2"
+image_2="/images/reviews/nintendo_switch/outlanders/image3.jpg"
+alt_image_2="Imagem 3"
+%}}
 
 Para superar um nível, o jogador deve cumprir o objetivo principal dentro do prazo estipulado. Outra condição de derrota ocorre quando a população permanece por muitos dias consecutivos com o medidor de felicidade abaixo dos 30%. Caso isso aconteça, o nível é considerado perdido, sendo necessário recomeçá-lo.
 
