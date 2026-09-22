@@ -1,0 +1,22 @@
+% if image_3:
+<div class="review-images images-3">
+    <a href="${image_1}">
+        <img src="${image_1}" alt="${alt_image_1 or 'Imagem 1'}">
+    </a>
+    <a href="${image_2}">
+        <img src="${image_2}" alt="${alt_image_2 or 'Imagem 2'}">
+    </a>
+    <a href="${image_3}">
+        <img src="${image_3}" alt="${alt_image_3 or 'Imagem 3'}">
+    </a>
+</div>
+% else:
+<div class="review-images images-2">
+    <a href="${image_1}">
+        <img src="${image_1}" alt="${alt_image_1 or 'Imagem 1'}">
+    </a>
+    <a href="${image_2}">
+        <img src="${image_2}" alt="${alt_image_2 or 'Imagem 2'}">
+    </a>
+</div>
+% endif
