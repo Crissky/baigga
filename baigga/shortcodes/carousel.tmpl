@@ -1,0 +1,55 @@
+<div id="reviewCarousel" class="carousel slide" data-ride="carousel">
+    <!-- BOTÕES DA PARTE INFERIOR -->
+    <div class="carousel-indicators">
+    % for i, image in enumerate(images):
+        <li data-target="#reviewCarousel"
+            data-slide-to="${i}"
+            class="${'active' if i == 0 else ''}">
+        </li>
+    % endfor
+    </div>
+    <!-- IMAGENS -->
+    <div class="carousel-inner">
+    % for i, image in enumerate(images):
+        <div class="carousel-item ${'active' if i == 0 else ''}">
+            <a href="${image['src']}">
+                <img
+                    src="${image['src']}"
+                    class="d-block w-100"
+                    alt="${image.get('alt', f'Imagem {i + 1}')}">
+            </a>
+        </div>
+    % endfor
+        <div class="carousel-item">
+            <a href="IMAGE-PATH-2">
+                <img
+                    src="IMAGE-PATH-2"
+                    class="d-block w-100"
+                    alt="Imagem 2">
+            </a>
+        </div>
+        <div class="carousel-item">
+            <a href="IMAGE-PATH-3">
+                <img
+                    src="IMAGE-PATH-3"
+                    class="d-block w-100"
+                    alt="Imagem 3">
+            </a>
+        </div>
+    </div>
+    <!-- BOTÕES DE AVANÇAR E RETORCEDER -->
+    <a class="carousel-control-prev"
+       href="#reviewCarousel"
+       role="button"
+       data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+        <span class="sr-only">Anterior</span>
+    </a>
+    <a class="carousel-control-next"
+       href="#reviewCarousel"
+       role="button"
+       data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+        <span class="sr-only">Próxima</span>
+    </a>
+</div>
