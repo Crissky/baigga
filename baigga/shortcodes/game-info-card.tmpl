@@ -1,0 +1,60 @@
+<div class="my-4 p-4 bg-light rounded-right shadow-sm"
+     style="border-left: 5px solid #6C757D !important;">
+    <h4 class="mb-4 text-muted d-flex align-items-center">
+        <span class="mr-1">&#127918;</span>
+        <strong>${title}</strong>
+    </h4>
+    <div class="row">
+        <!-- VIDEO - LADO ESQUERDO -->
+        <div class="col-12 col-lg-5 mb-4 mb-lg-0">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe
+                    class="embed-responsive-item"
+                    src="https://www.youtube.com/embed/${video}"
+                    allowfullscreen>
+                </iframe>
+            </div>
+        </div>
+        <!-- INFORMACOES - LADO DIREITO -->
+        <div class="col-12 col-lg-7">
+            <div class="row">
+                <!-- LINHA 1 -->
+                <div class="col-12 col-md-6">
+                    <small class="text-muted d-block text-nowrap">&#127970; Desenvolvedora</small>
+                    <strong>${developer}</strong>
+                </div>
+                <div class="col-12 col-md-6">
+                    <small class="text-muted d-block text-nowrap">&#128227; Publicadora</small>
+                    <strong>${publisher}</strong>
+                </div>
+                <!-- LINHA 2 -->
+                <div class="col-12 col-md-6">
+                    <small class="text-muted d-block text-nowrap">&#127922; G&ecirc;nero</small>
+                    <strong>${genre}</strong>
+                </div>
+                <div class="col-12 col-md-6">
+                    <small class="text-muted d-block text-nowrap">&#128377; Plataforma</small>
+                    <strong>${platform}</strong>
+                </div>
+                <!-- LINHA 3 -->
+                <div class="col-12 col-md-6">
+                    <small class="text-muted d-block text-nowrap">&#128197; Lan&ccedil;amento</small>
+                    <strong>${release}</strong>
+                </div>
+                <div class="col-12 col-md-6">
+                    <small class="text-muted d-block text-nowrap">&#128101; Jogadores</small>
+                    <strong>${players}</strong>
+                </div>
+                <!-- LINHA 4 -->
+                <div class="col-12 col-md-6">
+                    <small class="text-muted d-block text-nowrap">&#127760; Idioma</small>
+                    <strong>${language}</strong>
+                </div>
+                <div class="col-12 col-md-6">
+                    <small class="text-muted d-block text-nowrap">&#128176; Pre&ccedil;o</small>
+                    <span class="text-success font-weight-bold">${price}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
