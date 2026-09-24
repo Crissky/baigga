@@ -153,7 +153,7 @@ NAVIGATION_LINKS = {
         ("/categories.html", "Categorias"),
         ("/tags.html", "Tags"),
         ("/archive.html", "Arquivo"),
-        ("/sobre/", "Sobre"),
+        ("/pages/sobre/", "Sobre"),
     ),
 }
 
