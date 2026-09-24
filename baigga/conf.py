@@ -150,7 +150,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 # }
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/categorias.html", "Categorias"),
+        ("/categories.html", "Categorias"),
         ("/tags.html", "Tags"),
         ("/archive.html", "Arquivo"),
         ("/sobre/", "Sobre"),
@@ -469,8 +469,8 @@ HIDDEN_TAGS = ['mathjax']
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.html (list of posts for a category)
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category RSS_EXTENSION (RSS feed for a category)
 # (translatable)
-CATEGORY_PATH = "categorias"
-CATEGORY_PREFIX = "categoria-"
+CATEGORY_PATH = "categories"
+CATEGORY_PREFIX = "category-"
 
 # By default, the list of categories is stored in
 #     output / TRANSLATION[lang] / CATEGORY_PATH / index.html
@@ -478,7 +478,7 @@ CATEGORY_PREFIX = "categoria-"
 #     output / TRANSLATION[lang] / CATEGORIES_INDEX_PATH
 # with an arbitrary relative path CATEGORIES_INDEX_PATH.
 # (translatable)
-CATEGORIES_INDEX_PATH = "categorias.html"
+CATEGORIES_INDEX_PATH = "categories.html"
 
 
 # If CATEGORY_ALLOW_HIERARCHIES is set to True, categories can be organized in
