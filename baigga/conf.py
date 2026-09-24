@@ -1199,6 +1199,8 @@ MARKDOWN_EXTENSIONS = [
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
 # COPY_SOURCES = True
+SHOW_SOURCELINK = False
+COPY_SOURCES = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
