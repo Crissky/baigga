@@ -12,7 +12,7 @@
 ![Capa de Outlanders](/images/reviews/nintendo_switch/outlanders/cover.avif)
 
 
-*Outlanders* é um jogo de construção e gerenciamento de aldeias desenvolvido pela **Pomelo Games**. Nele, o jogador viaja até as pitorescas **Terras Remotas**, onde assume o papel de diferentes líderes e precisa transformar pequenos acampamentos em comunidades prósperas. Para isso, será necessário construir estruturas e administrar recursos em meio à atmosfera acolhedora e intimista desta região inexplorada. Mas será que essa fórmula é capaz de se destacar entre as opções atuais do gênero?
+_Outlanders_ é um jogo de construção e gerenciamento de aldeias desenvolvido pela **Pomelo Games**. Nele, o jogador viaja até as pitorescas **Terras Remotas**, onde assume o papel de diferentes líderes e precisa transformar pequenos acampamentos em comunidades prósperas. Para isso, será necessário construir estruturas e administrar recursos em meio à atmosfera acolhedora e intimista desta região inexplorada. Mas será que essa fórmula é capaz de se destacar entre as opções atuais do gênero?
 
 
 # Ficha Técnica
@@ -33,16 +33,16 @@ price="R$ 32,99"
 
 # Premissa e Proposta
 
-A proposta de *Outlanders* é mais simples e sossegada do que a de muitos jogos de construção e gerenciamento. Aqui, o objetivo não é erguer um poderoso império que existirá por eras ou administrar uma complexa metrópole, mas acompanhar o desenvolvimento de pequenas comunidades e lidar com as necessidades de seus habitantes.
+A proposta de _Outlanders_ é mais simples e sossegada do que a de muitos jogos de construção e gerenciamento. Aqui, o objetivo não é erguer um poderoso império que existirá por eras ou administrar uma complexa metrópole, mas acompanhar o desenvolvimento de pequenas comunidades e lidar com as necessidades de seus habitantes.
 
-Essa abordagem também se reflete na maneira como o jogo apresenta seus desafios. Em vez de colocar o jogador diante de sistemas excessivamente complexos, *Outlanders* busca construir uma experiência acessível, na qual administrar recursos e atender às necessidades da população sejam tarefas que complementem a atmosfera tranquila das Terras Remotas, buscando o equilíbrio entre pitadas do gênero de sobrevivência e do gênero *cozy*.
+Essa abordagem também se reflete na maneira como o jogo apresenta seus desafios. Em vez de colocar o jogador diante de sistemas excessivamente complexos, _Outlanders_ busca construir uma experiência acessível, na qual administrar recursos e atender às necessidades da população sejam tarefas que complementem a atmosfera tranquila das Terras Remotas, buscando o equilíbrio entre pitadas do gênero de sobrevivência e do gênero _cozy_.
 
 É uma premissa relativamente modesta, mas que estabelece uma identidade clara para o jogo: mais do que construir pelo simples ato de construir, o conceito é observar pequenas comunidades crescerem e encontrar soluções para as demandas que surgem com o aumento da população.
 
 
 # Gameplay
 
-*Outlanders* é dividido em dois modos de jogo: **Campanha** e **Mundo Aberto**.
+_Outlanders_ é dividido em dois modos de jogo: **Campanha** e **Mundo Aberto**.
 
 A Campanha leva o jogador por diversos cenários, cada um com seu próprio relevo, vegetação, arquitetura, história e desafios que devem ser superados. Cada cenário começa em um acampamento diferente, liderado por uma figura exótica que possui sua própria história e objetivos.
 
@@ -72,7 +72,7 @@ Seguidores, construções, recursos e decretos precisam ser utilizados em conjun
 
 # Progressão e Estrutura
 
-A **Campanha** de *Outlanders* é dividida em 29 níveis, agrupados em 5 temporadas. Os níveis da primeira temporada introduzem o jogador às mecânicas centrais do jogo: coleta de recursos, construção de edificações, necessidades dos seguidores e uso dos decretos. A curva de aprendizado é bastante suave e não sobrecarrega o jogador com inúmeras informações, apresentando as novidades de maneira gradativa. No início de cada temporada, novas construções e recursos são introduzidos, enquanto os níveis finais colocam à prova todo o conhecimento adquirido ao longo da campanha.
+A **Campanha** de _Outlanders_ é dividida em 29 níveis, agrupados em 5 temporadas. Os níveis da primeira temporada introduzem o jogador às mecânicas centrais do jogo: coleta de recursos, construção de edificações, necessidades dos seguidores e uso dos decretos. A curva de aprendizado é bastante suave e não sobrecarrega o jogador com inúmeras informações, apresentando as novidades de maneira gradativa. No início de cada temporada, novas construções e recursos são introduzidos, enquanto os níveis finais colocam à prova todo o conhecimento adquirido ao longo da campanha.
 
 {{% review-images
 image_1="/images/reviews/nintendo_switch/outlanders/image2.jpg"
@@ -83,12 +83,12 @@ alt_image_2="Imagem 3"
 
 Para superar um nível, o jogador deve cumprir o objetivo principal dentro do prazo estipulado. Outra condição de derrota ocorre quando a população permanece por muitos dias consecutivos com o medidor de felicidade abaixo dos 30%. Caso isso aconteça, o nível é considerado perdido, sendo necessário recomeçá-lo.
 
-Todos os níveis também possuem um objetivo secundário que, quando concluído, garante um segundo *check* ✔️ no cartão do nível, exibido na tela de seleção de níveis.
+Todos os níveis também possuem um objetivo secundário que, quando concluído, garante um segundo _check_ ✔️ no cartão do nível, exibido na tela de seleção de níveis.
 
 
 # História e Narrativa
 
-A história de *Outlanders* (se é que podemos chamá-la assim) é extremamente simples, tanto em sua apresentação quanto em seu conteúdo. Ela é exposta de três maneiras:
+A história de _Outlanders_ (se é que podemos chamá-la assim) é extremamente simples, tanto em sua apresentação quanto em seu conteúdo. Ela é exposta de três maneiras:
 
 A primeira aparece no menu de seleção de níveis, por meio de textos de dois parágrafos que explicam, de maneira geral, a temática da temporada selecionada: Partida, Colheita, Folhagem, Estilo de Vida e Gourmet.
 
@@ -98,7 +98,7 @@ A segunda consiste em um breve texto de apresentação que introduz o líder do 
 
 Por fim, há as falas introdutórias dos líderes, que contextualizam a situação atual do acampamento antes de cada fase. Elas funcionam como uma espécie de miniconto, apresentado na caixa de diálogo inicial junto ao objetivo do nível.
 
-Esses textos são o básico do básico para evitar que as Terras Remotas sejam uma página completamente em branco. Eles também despertam um interesse mínimo pelo universo do jogo e ajudam a dar algum contexto às situações apresentadas em cada fase. O problema é que *Outlanders* não desenvolve um arco narrativo capaz de conectar suas diferentes fases de maneira significativa, tampouco oferece uma conclusão que dê ao conjunto uma sensação de encerramento. Para quem busca uma experiência mais centrada na narrativa, essa ausência pode tornar a jornada decepcionante.
+Esses textos são o básico do básico para evitar que as Terras Remotas sejam uma página completamente em branco. Eles também despertam um interesse mínimo pelo universo do jogo e ajudam a dar algum contexto às situações apresentadas em cada fase. O problema é que _Outlanders_ não desenvolve um arco narrativo capaz de conectar suas diferentes fases de maneira significativa, tampouco oferece uma conclusão que dê ao conjunto uma sensação de encerramento. Para quem busca uma experiência mais centrada na narrativa, essa ausência pode tornar a jornada decepcionante.
 
 
 # Direção de Arte, Gráficos e Áudio
@@ -107,20 +107,20 @@ Esses textos são o básico do básico para evitar que as Terras Remotas sejam u
 
 ![Imagem 5](/images/reviews/nintendo_switch/outlanders/image5.jpg)
 
-Os gráficos de *Outlanders* têm uma proposta bastante estilizada e colorida, mais voltada para o charme e a atmosfera do que para o realismo. O estilo visual é um 3D esmerado e cartunesco, com personagens, casas, árvores e objetos construídos a partir de formas simplificadas e proporções caricatas. O mapa da cidade é apresentado de uma perspectiva elevada, que facilita a leitura e combina bem com a proposta de construção e gerenciamento.
+Os gráficos de _Outlanders_ têm uma proposta bastante estilizada e colorida, mais voltada para o charme e a atmosfera do que para o realismo. O estilo visual é um 3D esmerado e cartunesco, com personagens, casas, árvores e objetos construídos a partir de formas simplificadas e proporções caricatas. O mapa da cidade é apresentado de uma perspectiva elevada, que facilita a leitura e combina bem com a proposta de construção e gerenciamento.
 
 Predominam tons pastéis de verdes, azuis, amarelos e cores terrosas, criando uma aparência alegre e aconchegante. Os personagens são pequenos e simpáticos, visualmente simples, mas contam com animações que ajudam a transmitir suas atividades com bastante personalidade. Árvores, casas, fazendas, moinhos e outras estruturas seguem a mesma direção visual, dando ao acampamento a aparência de uma pequena maquete viva. Essa direção de arte combina diretamente com a proposta do jogo, priorizando uma atmosfera acolhedora.
 
-Os efeitos sonoros e a trilha sonora leve completam a ambientação *cozy*, criando a sensação de estar em uma comunidade cercada pela natureza. A trilha funciona bem durante longas sessões de gerenciamento, servindo como pano de fundo para a experiência e evitando uma sensação constante de intensidade ou urgência.
+Os efeitos sonoros e a trilha sonora leve completam a ambientação _cozy_, criando a sensação de estar em uma comunidade cercada pela natureza. A trilha funciona bem durante longas sessões de gerenciamento, servindo como pano de fundo para a experiência e evitando uma sensação constante de intensidade ou urgência.
 
 # Desempenho e Aspectos Técnicos
 
 No Nintendo Switch, o jogo roda muito bem na maior parte do tempo, tanto no modo portátil quanto no modo TV. No entanto, o desempenho começa a cair conforme a população cresce e o número de construções aumenta.
 
-Em alguns níveis com mapas maiores e objetivos que exigem comunidades bastante desenvolvidas, a taxa de quadros pode cair drasticamente, principalmente nos momentos em que muitos seguidores estão ativos simultaneamente. Nessas situações, a queda de desempenho pode prejudicar a responsividade do cursor e fazer com que alguns comandos não sejam registrados corretamente. Quando isso acontece, o jogador é praticamente obrigado a recorrer a estratégias como "congelar o tempo" ou diminuir o *zoom* para recuperar um pouco de desempenho antes de realizar determinadas ações. É um problema que não compromete toda a experiência, mas se torna particularmente incômodo justamente nos níveis em que a comunidade está mais desenvolvida.
+Em alguns níveis com mapas maiores e objetivos que exigem comunidades bastante desenvolvidas, a taxa de quadros pode cair drasticamente, principalmente nos momentos em que muitos seguidores estão ativos simultaneamente. Nessas situações, a queda de desempenho pode prejudicar a responsividade do cursor e fazer com que alguns comandos não sejam registrados corretamente. Quando isso acontece, o jogador é praticamente obrigado a recorrer a estratégias como "congelar o tempo" ou diminuir o _zoom_ para recuperar um pouco de desempenho antes de realizar determinadas ações. É um problema que não compromete toda a experiência, mas se torna particularmente incômodo justamente nos níveis em que a comunidade está mais desenvolvida.
 
 # Veredito
 
-*Outlanders* cumpre bem o papel de ser um jogo de construção e gerenciamento minimalista, com visuais e sons aconchegantes. Por se tratar de uma experiência acolhedora e de ritmo tranquilo, aspectos como a sobrevivência também são extremamente simples, exercendo mais o papel de adicionar uma camada de atenção ao gerenciamento para evitar que a experiência *cozy* se torne entediante, em vez de representar uma fonte real de preocupação ou estresse para o jogador.
+_Outlanders_ cumpre bem o papel de ser um jogo de construção e gerenciamento minimalista, com visuais e sons aconchegantes. Por se tratar de uma experiência acolhedora e de ritmo tranquilo, aspectos como a sobrevivência também são extremamente simples, exercendo mais o papel de adicionar uma camada de atenção ao gerenciamento para evitar que a experiência _cozy_ se torne entediante, em vez de representar uma fonte real de preocupação ou estresse para o jogador.
 
-No geral, *Outlanders* não é um jogo especialmente desafiador, embora alguns níveis exijam um pouco mais de atenção à estratégia e ao uso dos conceitos apresentados anteriormente. É uma experiência simples e convidativa, com uma atmosfera acolhedora e o mínimo de tensão necessário para manter o jogador engajado no cumprimento dos objetivos da campanha.
+No geral, _Outlanders_ não é um jogo especialmente desafiador, embora alguns níveis exijam um pouco mais de atenção à estratégia e ao uso dos conceitos apresentados anteriormente. É uma experiência simples e convidativa, com uma atmosfera acolhedora e o mínimo de tensão necessário para manter o jogador engajado no cumprimento dos objetivos da campanha.
