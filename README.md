@@ -1,2 +1,0 @@
-# baigga
-Gaming Blog

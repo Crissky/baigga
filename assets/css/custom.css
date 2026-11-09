@@ -1,0 +1,54 @@
+/* GERAL */
+p,
+li {
+  font-size: 1.25rem;  /* 20px */
+}
+/* GERAL */
+
+/* DIV VÍDEO YOUTUBE */
+.youtube-video {
+    margin: 1rem auto;
+}
+/* DIV VÍDEO YOUTUBE */
+
+/* DIV IMAGENS: DUAS OU TRES POR LINHA */
+.images-2 {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.images-3 {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.review-images {
+    display: grid;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.review-images a {
+    display: block;
+}
+
+.review-images img {
+    width: 100%;
+    height: auto;
+    transition: opacity 0.2s;
+}
+
+.review-images a:hover img {
+    opacity: 0.8;
+}
+
+/* DIV IMAGENS: DUAS OU TRES POR LINHA */
+
+/* CAROUSEL DE IMAGENS */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 36px;
+    height: 36px;
+    background-color: rgba(0, 0, 0, 0.55);
+    background-size: 45% 45%;
+    border-radius: 50%;
+}
+/* CAROUSEL DE IMAGENS */
