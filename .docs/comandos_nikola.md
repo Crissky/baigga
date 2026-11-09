@@ -7,6 +7,7 @@ Boa noite! Para um blog de games com o **Nikola**, os comandos mais usados ficam
 - `nikola serve` — inicia um servidor local para visualizar o site.
 - `nikola auto` — monitora alterações e recompila automaticamente.
 - `nikola check` — verifica problemas no site.
+- `nikola github_deploy` — publica o site no GITHUB conforme a configuração de deployment.
 - `nikola deploy` — publica o site conforme a configuração de deployment.
 - `nikola clean` — remove arquivos gerados pelo Nikola.
 - `nikola status` — mostra informações sobre o estado do site.
