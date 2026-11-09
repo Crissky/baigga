@@ -1,0 +1,4 @@
+Sitemap: https://crissky.github.io/baigga/sitemapindex.xml
+
+User-Agent: *
+Host: crissky.github.io

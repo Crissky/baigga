@@ -20,7 +20,7 @@ BLOG_AUTHOR = "Crissky"  # (translatable)
 BLOG_TITLE = "Baigga"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = ""
+SITE_URL = "https://crissky.github.io/baigga/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
